@@ -64,7 +64,7 @@ ecommerce-buying-pattern-analysis/
 
 ## 👨‍💻 Author
 **Akash Kumar**  
-BCA Student | Aspiring Data Analyst  
+Data Analyst | BCA Student 
 
 ---
 
